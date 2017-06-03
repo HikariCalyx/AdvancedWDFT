@@ -1,0 +1,9 @@
+F:\Projects\AdvancedWDFT\AdvancedWDFT\bin\Debug\AdvancedWDFT.exe.config
+F:\Projects\AdvancedWDFT\AdvancedWDFT\bin\Debug\AdvancedWDFT.exe
+F:\Projects\AdvancedWDFT\AdvancedWDFT\bin\Debug\AdvancedWDFT.pdb
+F:\Projects\AdvancedWDFT\AdvancedWDFT\obj\Debug\AdvancedWDFT.csprojResolveAssemblyReference.cache
+F:\Projects\AdvancedWDFT\AdvancedWDFT\obj\Debug\AdvancedWDFT.thor2gui.resources
+F:\Projects\AdvancedWDFT\AdvancedWDFT\obj\Debug\AdvancedWDFT.Properties.Resources.resources
+F:\Projects\AdvancedWDFT\AdvancedWDFT\obj\Debug\AdvancedWDFT.csproj.GenerateResource.Cache
+F:\Projects\AdvancedWDFT\AdvancedWDFT\obj\Debug\AdvancedWDFT.exe
+F:\Projects\AdvancedWDFT\AdvancedWDFT\obj\Debug\AdvancedWDFT.pdb
